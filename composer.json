@@ -1,0 +1,7 @@
+{
+    "name": "ndiritu/sample-package",
+    "description": "Sample package",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
